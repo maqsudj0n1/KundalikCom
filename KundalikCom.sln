@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KundalikCom", "KundalikCom\KundalikCom.csproj", "{B3520882-AB5A-472B-8901-D4C5C51F64FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KundalikCom", "KundalikCom\KundalikCom.csproj", "{B3520882-AB5A-472B-8901-D4C5C51F64FD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication", "Aplication", "{D421AF52-7101-4983-8C40-056AC400765E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domein", "Domein", "{DB4993C8-18BA-49F6-A2CE-1AFE4650FCD7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DB4993C8-18BA-49F6-A2CE-1AFE4650FCD7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{22111A37-63A9-4489-AC3C-3C08A939E05C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prezentation", "Prezentation", "{BDC08E0D-E00E-4EF9-B4D1-49BCFF44EF4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BDC08E0D-E00E-4EF9-B4D1-49BCFF44EF4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domein", "Domein\Domein.csproj", "{D3F60D4F-E866-4DDF-AB5C-DE0B16B99D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domein\Domain.csproj", "{D3F60D4F-E866-4DDF-AB5C-DE0B16B99D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "Aplication\Aplication.csproj", "{5B6F08D6-9AB8-4433-B711-62D621FD294B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplication", "Aplication\Aplication.csproj", "{5B6F08D6-9AB8-4433-B711-62D621FD294B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2571CCBE-BC0A-48A8-AC1E-230266B5314D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2571CCBE-BC0A-48A8-AC1E-230266B5314D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
